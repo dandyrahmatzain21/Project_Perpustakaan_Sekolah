@@ -1,0 +1,44 @@
+tabel_anggota ditambah password
+
+tabel buku
+--------------
+kode_buku
+kode_kategori
+kode_pengarang
+kode_penerbit
+judul_buku
+tahun_terbit
+isbn
+jumlah_buku
+tgl_diterima
+
+
+peminjaman
+-------------------
+kode_pinjaman
+tgl_pinjaman
+tgl_harus_kembali
+kode_anggota
+kode_buku
+
+pengembalian
+-----------------
+kode_pinjaman
+tgl_pengembalian
+
+tabel_admin
+--------------
+username
+nama_admin
+password
+
+
+
+LAPORAN
+jumlah buku per kategori
+jumlah buku yang masih dipinjam
+laporan denda
+
+
+
+

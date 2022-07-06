@@ -1,0 +1,159 @@
+body{
+background-color:#1E90FF;
+}
+
+.konten_utama{
+width:100%;
+background-color:#8BC0F3;
+border-radius:5px;
+}
+
+.header{
+font-family:"Arial";	
+font-size:18px;
+text-align:center;
+height:80px;
+}
+
+.menu{
+font-family:verdana;
+text-align:center;
+height:40px;
+background-color:#9CFA96;
+}
+.menu a{
+text-decoration:none;
+}
+
+.menu a:hover{
+background-color:#dedede;
+padding:3px;
+border-radius:3px;
+}
+
+.konten{
+padding:10px;
+vertical-align:top;
+height:390px;
+background-color:#969B96;
+}
+
+.konten p {
+font-family:arial;
+font-size:13px;
+}
+
+.konten h3 {
+font-family:arial;
+}
+.catatan_kaki{
+height:50px;
+text-align:center;
+font-size:10px;
+}
+
+
+.data{
+width:100%;
+background-color:#dedede;
+border-radius:5px;
+border:1px solid #564A4A;
+font-family:arial;
+font-size:13px;
+}
+
+.data thead{
+text-align:center;
+height:30px;
+font-weight:bold;
+}
+
+.data tbody{
+background-color:#FAF0F0;
+}
+
+.data td{
+padding-left:10px;
+height:30px;
+}
+
+.data a{
+text-decoration:none;
+}
+
+.data a:hover{
+font-weight:bold;
+}
+
+
+
+.label_input{
+font-weight:bold;
+}
+
+
+
+.tombol{
+border:1px solid #008000;
+padding:3px;
+text-decoration:none;
+background-color:#7BE87B;
+color:#FFFFFF;
+font-family:arial;
+font-size:13px;
+font-weight:bold;
+border-radius:5px;
+}
+
+
+input[type=text]{
+background-color:#dedede;
+height:25px;
+padding-left:5px;
+border-radius:5px;
+}
+
+textarea{
+background-color:#dedede;
+padding-left:5px;
+border-radius:5px;
+width:95%;
+}
+
+
+.kotak_kiri{
+width:47%;
+background-color:#1FCF91;
+padding:5px 5px 5px 25px;
+float:left;
+border-radius:5px;
+}
+
+.kotak_kanan{
+width:47%;
+background-color:#1FCF91;
+padding:5px 5px 5px 25px;
+float:right;
+border-radius:5px;
+
+}
+
+
+.sub_data{
+width:100%;
+font-family:arial;
+}
+
+.sub_data tr{
+line-height:10px;
+}
+
+.sub_data td{
+padding:0px;
+}
+
+
+.konten ol {
+font-family:arial;
+font-size:13px;
+}
